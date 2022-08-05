@@ -1,5 +1,4 @@
-<p align="center"><img src="https://media.discordapp.net/attachments/1005069312157032509/1005105706531299449/github_101792.png", width="400", height="400"></p>
-
+<p align="center"><img src="https://user-images.githubusercontent.com/107768845/183090033-3fafd931-ee41-4e6a-8b2f-61c61629a1f3.png", width="400", height="400"></p>
 
 ```
 100% accurate GitHub username checker - Using a Discord webhook!
@@ -27,7 +26,7 @@ Then, you can run **`launch.bat`** to install the requirements.
 
 ## Preview
 
-<p align="center"><img src="https://media.discordapp.net/attachments/1005069312157032509/1005106787353112596/py_rq9fjCJ0ZO.png"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/107768845/183090109-f1a2e7c1-bcae-4bb9-bb8a-4d28389f1ab4.png"></p>
 
 
 <center>
