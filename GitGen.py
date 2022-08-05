@@ -1,5 +1,5 @@
 webhook = "" # paste your webhook between the ""
-length = 3 # change this for a different length
+length = 4 # change this for a different length
 
 #===================================================================================
 
